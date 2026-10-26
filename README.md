@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Echo AI (fka Pathlight) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://www.pathlight.com/
+Echo AI (formerly Pathlight) provides AI-driven solutions for enterprise communication, enabling real-time transcription, sentiment analysis, and actionable insights across voice and video channels. The platform integrates with contact centers, collaboration tools, and custom applications via RESTful APIs, offering developers robust endpoints for speech-to-text, language detection, and analytics. Backed by Insight Partners, Echo AI aims to transform how organizations capture and leverage conversational data to improve customer experience and operational efficiency.
+
+**Areas:** AI · Communication · SpeechRecognition · Analytics · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pathlight.ai)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pathlight-com/](https://apis.io/providers/pathlight-com/).
